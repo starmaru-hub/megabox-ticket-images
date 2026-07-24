@@ -1,0 +1,1 @@
+# megabox-ticket-images
